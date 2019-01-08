@@ -1,1 +1,3 @@
 Here's the initial random file.
+
+Now I've made a first change.
