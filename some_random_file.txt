@@ -3,3 +3,5 @@ Here's the initial random file.
 Now I've made a first change.
 
 Oh look! A second change.
+
+And now, a third and final change.
